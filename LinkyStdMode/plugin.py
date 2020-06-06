@@ -3,7 +3,7 @@
 # Author: Benjamin CROSASSO
 #
 """
-<plugin key="LinkyStdMode" name="TeleInfo Linky Standard Mode" author="Benjamin CROSASSO" version="1.0.0" wikilink="http://www.domoticz.com/wiki/plugins/plugin.html" externallink="https://www.google.com/">
+<plugin key="LinkyStdMode" name="TeleInfo Linky Standard Mode" author="Benjamin CROSASSO" version="1.0.0" wikilink="https://github.com/bnj-04/LinkyStdMode" externallink="https://www.google.com/">
     <description>
         <h2>Linky Standard Mode Plugin</h2><br/>
         <h3>Configuration</h3>
